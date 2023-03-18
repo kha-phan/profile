@@ -1,0 +1,107 @@
+.avt-form {
+  position: absolute;
+  top: 12%;
+  right: 5%;
+  width: 25%;
+}
+
+.avt-img {
+  border: 2px solid white;
+  border-radius: 70px;
+  width: 70%;
+  height: 70%;
+}
+
+.name {
+  font-size: 26px;
+}
+
+.music-icon {
+  position: absolute;
+  top: 0px;
+  right: 30px;
+}
+
+.music-text {
+  position: absolute;
+  top: 50px;
+  right: 12px;
+  font-size: 12px;
+}
+
+.title {
+  font-size: 20px;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.sub-title {
+  font-size: 17px;
+  padding-left: 5px;
+}
+
+.comment {
+  font-size: 13px;
+  padding-left: 50px;
+}
+
+.info-form {
+  margin-left: 5%;
+  border: 1px solid white;
+  border-radius: 30px;
+  width: 60%;
+  padding: 20px;
+  box-shadow: 5px 5px 5px lightblue inset;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 0.9em;
+  color: white;
+  height:1rem;
+}
+
+.contact-icon {
+  color: white;
+  height:1rem;
+  font-size: 1.75em;
+  margin-right: 10px;
+}
+
+.category-form {
+  margin-left: 50px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.sub-category-form {
+  padding-left: 50px;
+}
+
+.tech-icon {
+  margin-right: 10px;
+  height: 25px;
+}
+
+.link {
+  color: lightblue;
+}
+
+.major {
+  font-size: 17px;
+  font-weight: bolder;
+  padding-left: 50px;
+}
+
+.company {
+  font-size: 17px;
+}
+
+.more-detail {
+  font-size: 15px;
+  padding-left: 50px;
+}
+
+summary {
+  display: block;
+}
